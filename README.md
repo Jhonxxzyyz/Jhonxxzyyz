@@ -8,4 +8,4 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 
-![](https://media1.tenor.com/m/hrMpWeOG6XAAAAAd/elbicho-vicotrevs.gif)
+![](https://tenor.com/pt-BR/view/technologist-joypixels-laptop-professional-expert-gif-17257009)
