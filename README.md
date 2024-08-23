@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é João Victor da siva
+Meu nome é João Victor da siva Medeiros
 
 Estou estudando na Alura
 
